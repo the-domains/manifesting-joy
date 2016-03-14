@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\_The emotions of scorn, hate, craving (which is desire), anxiety, regret, despair, blame and humiliation are all the consciousness of falsehood.\_"
-datePublished: '2016-03-14T17:25:56.230Z'
-dateModified: '2016-03-14T17:25:40.129Z'
+datePublished: '2016-03-14T17:27:40.365Z'
+dateModified: '2016-03-14T17:26:42.252Z'
 title: "Choose Your Consciousness: Falsehood or Truth\_"
 author: []
 authors: []
