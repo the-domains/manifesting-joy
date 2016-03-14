@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-14T17:16:20.468Z'
-dateModified: '2016-03-14T17:16:13.402Z'
+datePublished: '2016-03-14T17:19:06.951Z'
+dateModified: '2016-03-14T17:18:55.217Z'
 title: "Joy and Happiness are not created equal!\_"
 author: []
+sourcePath: _posts/2016-03-14-joy-and-happiness-are-not-created-equal.md
+published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
-sourcePath: _posts/2016-03-14-joy-and-happiness-are-not-created-equal.md
-published: true
 url: joy-and-happiness-are-not-created-equal/index.html
 _type: Article
 
@@ -47,4 +47,6 @@ In a state of desire, we are very vulnerable to suggestion, influence and manipu
 
 Pause for a moment and think about that, desire is trapped between our two most toxic emotions - fear and anger. 
 
-Our desires lead us into all sorts of unhealthy choices and less than desirable habits. Some desires are so strong they become addictions and hold us hostage. We get disappointed when we don't experience our desires and when they are very strong. Desire can lead to significant cravings and when indulged repeatedly, lead us into enslavement and addiction.
+Our desires lead us into all sorts of unhealthy choices and less than desirable habits. Some desires are so strong they become addictions and hold us hostage. We get disappointed when we don't experience our desires and when they are very strong. 
+
+Desire can lead to significant cravings and when indulged repeatedly, lead us into enslavement and addiction.
