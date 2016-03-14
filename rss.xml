@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Manifesting Joy!]]></title>
         <description><![CDATA[Manifesting Joy!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manifesting-joy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 17:16:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 17:19:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manifesting-joy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Joy and Happiness are not created equal! ]]></title>
             <description><![CDATA[<article><h1>Joy and Happiness are not created equal! </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e2b9cc520c0b9a90725ecf2e9d54bc93083b948.jpg"></article>]]></description>
-            <link>undefinedjoy-and-happiness-are-not-created-equal/index.html</link>
+            <link>https://thegrid.ai/manifesting-joy/joy-and-happiness-are-not-created-equal/index.html</link>
             <guid isPermaLink="false">a93e5d47-f68b-4055-b0a9-af8cf7fd89e0</guid>
-            <pubDate>Mon, 14 Mar 2016 17:16:20 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 17:19:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
