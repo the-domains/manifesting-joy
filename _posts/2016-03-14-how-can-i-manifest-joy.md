@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Begin by paying attention to your appetites, think twice before indulging in your desires.\_"
-datePublished: '2016-03-14T19:55:37.806Z'
-dateModified: '2016-03-14T19:55:26.714Z'
+datePublished: '2016-03-14T20:08:25.617Z'
+dateModified: '2016-03-14T19:59:26.810Z'
 title: "How can I Manifest Joy!?\_"
 author: []
+sourcePath: _posts/2016-03-14-how-can-i-manifest-joy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-how-can-i-manifest-joy.md
-published: true
 url: how-can-i-manifest-joy/index.html
 _type: Article
 
@@ -53,7 +53,7 @@ In the final part of this meditation you will add a very powerful visualization.
 
 Keep breathing and using your tongue as before. This time, as you breathe in, imagine you are breathing straight through your chest into your heart. Imagine your breath going through your heart to your spine and rising up your spine into your skull and following the contour of your skull. Then when you feel the need to exhale, on the out breath, imagine the air exiting through your third eye, space between your eyebrows. 
 
-Repeat this 6 - 12 times and when you are ready come back. 
+> Repeat this 6 - 12 times and when you are ready come back. 
 
 People report a wide variety of benefits including feeling a movement of energy, a complete cessation of thought, to experiencing a calm, extreme present moment awareness to a quiet space of serene Joy!. 
 
