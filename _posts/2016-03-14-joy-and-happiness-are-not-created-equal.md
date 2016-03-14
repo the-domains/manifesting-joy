@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-14T17:19:06.951Z'
-dateModified: '2016-03-14T17:18:55.217Z'
+datePublished: '2016-03-14T19:36:41.808Z'
+dateModified: '2016-03-14T19:36:21.191Z'
 title: "Joy and Happiness are not created equal!\_"
 author: []
 sourcePath: _posts/2016-03-14-joy-and-happiness-are-not-created-equal.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 url: joy-and-happiness-are-not-created-equal/index.html
 _type: Article
 
@@ -25,6 +25,8 @@ _type: Article
 # Joy and Happiness are not created equal! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d8bc4d-a836-4154-89c9-9cb0b1241af2.jpg)
 
 Before we can begin Manifesting Joy! we must first understand the difference between happiness and joy! 
+
+[https://anchor.fm/w/9aedae][0]
 
 Joy is an energy you carry, happiness is something you experience.
 The experience of happiness is fleeting and temporary. 
@@ -50,3 +52,5 @@ Pause for a moment and think about that, desire is trapped between our two most 
 Our desires lead us into all sorts of unhealthy choices and less than desirable habits. Some desires are so strong they become addictions and hold us hostage. We get disappointed when we don't experience our desires and when they are very strong. 
 
 Desire can lead to significant cravings and when indulged repeatedly, lead us into enslavement and addiction.
+
+[0]: https://anchor.fm/w/9aedae
