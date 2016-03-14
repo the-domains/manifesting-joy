@@ -6,25 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Whereas, joy, on the other hand, is a very high vibrational state of truth sandwiched between peace and love.\_"
-datePublished: '2016-03-14T17:48:59.611Z'
-dateModified: '2016-03-14T17:48:39.723Z'
+datePublished: '2016-03-14T17:52:07.271Z'
+dateModified: '2016-03-14T17:51:55.917Z'
 title: "Joy Is Truth\_"
 author: []
+sourcePath: _posts/2016-03-14-joy-is-truth.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-joy-is-truth.md
-published: true
 url: joy-is-truth/index.html
 _type: Article
 
 ---
 # Joy Is Truth 
 
-Whereas, joy, on the other hand, is a very high vibrational state of truth sandwiched between peace and love. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff27bf50-4fbb-4ef2-bd2e-d823f06ca97e.jpg)
+Whereas, joy, on the other hand, is a very high vibrational state of truth sandwiched between peace and love. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e74fea9-b84e-4329-94ad-2a6efe6b4ac7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff27bf50-4fbb-4ef2-bd2e-d823f06ca97e.jpg)
 
 The experience of Joy is a feeling of being complete, a sense of oneness and serenity. It is one small and yet significant step away from the enlightened state. 
 
